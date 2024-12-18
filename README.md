@@ -9,4 +9,5 @@ As stated above the main purpose is to provide simple examples for Git training.
 This is a simple webproject depoyment can be on an web server or even local filey sytem.
 ## How to contribute
 
-##This readme file is from the integration branch
+## This readme file is from the integration branch
+## This change was done on the integration branch
